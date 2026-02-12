@@ -16,7 +16,7 @@ This is my personal portfolio website showcasing my skills and projects as a Ful
 - Responsive design
 
 ## 🔗 Live Website
-https://your-netlify-link.netlify.app
+https:nithyapriya-portfolio.netlify.app
 
 ## 📬 Contact
 LinkedIn: https://linkedin.com/in/yourprofile
